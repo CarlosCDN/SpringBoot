@@ -1,0 +1,13 @@
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/model/Movimentacao.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/dto/NovaMovimentacao.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/model/Conta.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/model/Correntista.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/repository/CorrentistaRepository.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/service/MovimentacaoService.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/BanklineApiApplication.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/dto/NovoCorrentista.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/controller/MovimentacaoController.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/model/MovimentacaoTipo.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/service/CorrentistaService.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/controller/CorrentistaController.java
+/home/carlos/Documentos/bankline-api/src/main/java/com/unitech/banklineapi/repository/MovimentacaoRepository.java

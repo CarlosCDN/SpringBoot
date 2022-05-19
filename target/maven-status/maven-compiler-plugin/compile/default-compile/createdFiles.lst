@@ -1,0 +1,6 @@
+com/unitech/banklineapi/model/MovimentacaoTipo.class
+com/unitech/banklineapi/model/Movimentacao.class
+com/unitech/banklineapi/model/Conta.class
+com/unitech/banklineapi/model/Correntista.class
+com/unitech/banklineapi/dto/NovaMovimentacao.class
+com/unitech/banklineapi/repository/CorrentistaRepository.class
